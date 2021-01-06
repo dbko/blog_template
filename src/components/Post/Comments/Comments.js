@@ -13,7 +13,7 @@ const Comments = () => {
     const script = document.createElement('script');
     script.src = 'https://utteranc.es/client.js';
     script.async = true;
-    script.setAttribute('repo', 'dbko/blog-comments');
+    script.setAttribute('repo', 'your-comment-repo');
     script.setAttribute('issue-term', 'pathname');
     script.setAttribute('label', 'comment :speech_balloon:');
     script.setAttribute('theme', 'github-light');
