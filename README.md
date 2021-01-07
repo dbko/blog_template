@@ -9,7 +9,7 @@
 
 For more information, see  [this](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
-+ [Added features](https://github.com/dbko/blog_template#Added features)
++ [Added features](https://github.com/dbko/blog_template#Added features) 
 + [Quick Start](http://github.com/dbko/blog_template#quick-start)
 + [Folder Structure](http://github.com/dbko/blog_template#folder-structure)
 + [Contributors](http://github.com/dbko/blog_template#contributors)
